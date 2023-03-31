@@ -1,0 +1,17 @@
+Lista stacji meteo rozmieszczonych na Dolnym Śląsku wraz z dostępnością czujników
+Struktura pliku:
+Lokalizacja	czy_Temp	czy_Wilg	czy_Cisnienie
+Wrocław		true		true		true
+Iwiny		true		false		true
+Marcinkowice	true		true		false
+Jelenia_Gora	false		true		true
+Jawor		true		false		false
+Kłodzko		true		true		false
+Legnica		true		true		true
+Bogatynia	false		false		true
+Wałbrzych	true		true		true
+Lubin		true		false		true
+Głogów		true		true		false
+Świdnica	true		true		true
+Bolesławiec	false		true		true
+Oława		true		true		true		
